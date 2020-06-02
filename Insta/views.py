@@ -8,7 +8,6 @@ from django.urls import reverse_lazy
 class HellowWorld(TemplateView):
     template_name = 'test.html'
 
-
 class PostsView(ListView):
     model = Post
     template_name = 'index.html'
