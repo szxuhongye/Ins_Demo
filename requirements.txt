@@ -3,3 +3,4 @@ whitenoise==5.1.0
 django-imagekit==4.0.2
 django-annoying==0.10.6
 Pillow==7.1.2
+gunicorn
